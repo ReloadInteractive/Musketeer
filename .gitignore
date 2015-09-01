@@ -1,0 +1,6 @@
+*.pyc
+node_modules
+bower_components
+musketeerfoods/static/bower_components
+.sass-cache
+*.sublime-project

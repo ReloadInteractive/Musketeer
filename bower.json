@@ -1,0 +1,22 @@
+{
+  "name": "musketeerfoods",
+  "version": "1.0.0",
+  "authors": [
+    "ReloadInteractive <reloadinteractiveuk@gmail.com>"
+  ],
+  "description": "Musketeer Foods CMS",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "musketeerfoods/static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "html5shiv": "~3.7.3",
+    "respond": "~1.4.2"
+  },
+  "devDependencies": {}
+}
